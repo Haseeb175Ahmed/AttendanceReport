@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AttendanceReport", "AttendanceReport\AttendanceReport.csproj", "{B99BA4E1-8015-4D8B-AB40-0E82AAFB8D0E}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{F087DFC6-1914-4E48-9936-4D0265011445}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B99BA4E1-8015-4D8B-AB40-0E82AAFB8D0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B99BA4E1-8015-4D8B-AB40-0E82AAFB8D0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B99BA4E1-8015-4D8B-AB40-0E82AAFB8D0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B99BA4E1-8015-4D8B-AB40-0E82AAFB8D0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F087DFC6-1914-4E48-9936-4D0265011445}.Debug|Any CPU.ActiveCfg = Debug
+		{F087DFC6-1914-4E48-9936-4D0265011445}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {293882B5-E5CE-40D0-BDDF-FCA3200D0155}
+	EndGlobalSection
+EndGlobal
